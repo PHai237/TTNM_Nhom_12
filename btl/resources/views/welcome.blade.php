@@ -66,7 +66,7 @@
       }
       .text-wrapper-2 {
         font-size: 25px;
-        color: #ffffff;
+        color: #000000;
       }
       .wearly-logo {
         position: absolute;
@@ -100,7 +100,7 @@
     <div class="bo-co-tn-kho">
       <div class="frame">
         <div class="div">
-          <img class="img" src="img/producer.png" />
+          <img class="img" src="./img/producer.png" />
           <p class="text-wrapper">Quản lý nhà cung cấp</p>
         </div>
         <div class="frame-2">
@@ -111,7 +111,7 @@
         </div>
         <div class="frame-3">
           <div class="img">
-            <img class="img" src="./img/stock.png" />
+            <img class="img" src="./img/stock_out.png" />
           </div>
           <p class="text-wrapper">Quản lý xuất kho</p>
         </div>
@@ -120,15 +120,14 @@
           <p class="text-wrapper-2">Báo cáo thống kê</p>
         </div>
         <div class="frame-5">
-          <img class="img" src="img/product-white.png" />
+          <img class="img" src="./img/product.png" />
           <p class="text-wrapper-2">Quản lý sản phẩm</p>
         </div>
       </div>
-      <img class="wearly-logo" src="img/wearly-logo.png" />
+      <img class="wearly-logo" src="./img/wearly_logo.png" />
       <div class="text-wrapper-3">WEARLY</div>
       <img class="image" src="./img/user_avt.png" />
     </div>
   </body>
-<!-- thu -->
-  </html>
+</html>
 
